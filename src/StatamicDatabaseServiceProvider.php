@@ -25,6 +25,9 @@ use Daynnnnn\StatamicDatabase\Taxonomies\TaxonomyRepository;
 use Statamic\Contracts\Taxonomies\TermRepository as TermRepositoryContract;
 use Daynnnnn\StatamicDatabase\Taxonomies\TermRepository;
 
+use Statamic\Contracts\Auth\RoleRepository as RolesRepositoryContract;
+use Daynnnnn\StatamicDatabase\Roles\RolesRepository;
+
 use Daynnnnn\StatamicDatabase\Commands\FileMigration;
 use Illuminate\Support\ServiceProvider;
 use Statamic\Statamic;
@@ -81,6 +84,10 @@ class StatamicDatabaseServiceProvider extends ServiceProvider
         if ($config['taxonomies']) {
             Statamic::repository(TaxonomyRepositoryContract::class, TaxonomyRepository::class);
             Statamic::repository(TermRepositoryContract::class, TermRepository::class);
+        }
+
+        if ($config['roles']) {
+            Statamic::repository(RolesRepositoryContract::class, RolesRepository::class);
         }
     }
 }

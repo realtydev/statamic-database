@@ -15,5 +15,6 @@ return [
     'navigation' => true,
 
     'taxonomies' => true,
-    
+
+    'roles' => true,
 ];
