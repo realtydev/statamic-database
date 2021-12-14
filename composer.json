@@ -1,5 +1,5 @@
 {
-    "name": "daynnnnn/statamic-database",
+    "name": "realtydev/statamic-database",
     "description": "Allows you to store all Statamic data in a database.",
     "autoload": {
         "psr-4": {
