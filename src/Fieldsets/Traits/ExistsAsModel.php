@@ -1,8 +1,8 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Fieldsets\Traits;
+namespace Realtydev\StatamicDatabase\Fieldsets\Traits;
 
-use Daynnnnn\StatamicDatabase\Fieldsets\FieldsetModel;
+use Realtydev\StatamicDatabase\Fieldsets\FieldsetModel;
 
 trait ExistsAsModel
 {

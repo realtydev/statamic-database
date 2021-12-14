@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Navigation;
+namespace Realtydev\StatamicDatabase\Navigation;
 
 use Illuminate\Database\Eloquent\Model;
 use Statamic\Support\Arr;

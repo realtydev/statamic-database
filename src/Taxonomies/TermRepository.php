@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Taxonomies;
+namespace Realtydev\StatamicDatabase\Taxonomies;
 
 use Statamic\Stache\Repositories\TermRepository as StacheRepository;
 use Statamic\Contracts\Taxonomies\Term as TermContract;

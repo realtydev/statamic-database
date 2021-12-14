@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Taxonomies;
+namespace Realtydev\StatamicDatabase\Taxonomies;
 
 use Statamic\Stache\Repositories\TaxonomyRepository as StacheRepository;
 use Statamic\Contracts\Taxonomies\Taxonomy as TaxonomyContract;

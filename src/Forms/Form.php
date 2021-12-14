@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Forms;
+namespace Realtydev\StatamicDatabase\Forms;
 
 use Statamic\Contracts\Data\Augmentable;
 use Statamic\Contracts\Forms\Form as FormContract;

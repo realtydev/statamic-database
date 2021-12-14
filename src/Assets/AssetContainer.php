@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Assets;
+namespace Realtydev\StatamicDatabase\Assets;
 
 use Statamic\Facades\AssetContainer as AssetContainerFacade;
 use Statamic\Assets\AssetContainer as FileAssetContainer;

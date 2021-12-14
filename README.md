@@ -16,7 +16,7 @@ An eloquent driver for Statamic V3 which supports:
 ## Installation
 
 From a standard Statamic V3 site, you can run:
-`composer require daynnnnn/statamic-database`
+`composer require realtydev/statamic-database`
 
 Run migrations:
 `php please migrate`
@@ -27,12 +27,12 @@ public function register()
 {
     $this->app->singleton(
         'Statamic\Fields\BlueprintRepository',
-        'Daynnnnn\StatamicDatabase\Blueprints\BlueprintRepository'
+        'Realtydev\StatamicDatabase\Blueprints\BlueprintRepository'
     );
 
     $this->app->singleton(
         'Statamic\Fields\FieldsetRepository',
-        'Daynnnnn\StatamicDatabase\Fieldsets\FieldsetRepository'
+        'Realtydev\StatamicDatabase\Fieldsets\FieldsetRepository'
     );
 }
 ```

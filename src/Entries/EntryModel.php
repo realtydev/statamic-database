@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Entries;
+namespace Realtydev\StatamicDatabase\Entries;
 
 use Illuminate\Database\Eloquent\Model as Eloquent;
 use Illuminate\Support\Arr;

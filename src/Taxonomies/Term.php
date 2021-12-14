@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Taxonomies;
+namespace Realtydev\StatamicDatabase\Taxonomies;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

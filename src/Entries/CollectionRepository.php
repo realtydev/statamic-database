@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Entries;
+namespace Realtydev\StatamicDatabase\Entries;
 
 use Illuminate\Support\Collection as IlluminateCollection;
 use Statamic\Contracts\Entries\Collection as CollectionContract;

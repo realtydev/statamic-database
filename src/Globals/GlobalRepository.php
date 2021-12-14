@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Globals;
+namespace Realtydev\StatamicDatabase\Globals;
 
 use Statamic\Stache\Repositories\GlobalRepository as StacheRepository;
 use Statamic\Contracts\Globals\GlobalSet as GlobalContract;

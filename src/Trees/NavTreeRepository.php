@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Trees;
+namespace Realtydev\StatamicDatabase\Trees;
 
 use Statamic\Facades\Blink;
 use Statamic\Structures\NavTree;

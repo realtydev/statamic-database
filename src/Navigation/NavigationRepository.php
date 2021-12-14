@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Navigation;
+namespace Realtydev\StatamicDatabase\Navigation;
 
 use Statamic\Stache\Repositories\NavigationRepository as StacheRepository;
 use Statamic\Contracts\Structures\Nav as NavContract;

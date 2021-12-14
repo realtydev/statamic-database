@@ -1,8 +1,8 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Blueprints\Traits;
+namespace Realtydev\StatamicDatabase\Blueprints\Traits;
 
-use Daynnnnn\StatamicDatabase\Blueprints\BlueprintModel;
+use Realtydev\StatamicDatabase\Blueprints\BlueprintModel;
 
 trait ExistsAsModel
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Globals;
+namespace Realtydev\StatamicDatabase\Globals;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;

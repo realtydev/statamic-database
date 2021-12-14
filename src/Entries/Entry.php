@@ -1,8 +1,8 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Entries;
+namespace Realtydev\StatamicDatabase\Entries;
 
-use Daynnnnn\StatamicDatabase\Entries\EntryModel as Model;
+use Realtydev\StatamicDatabase\Entries\EntryModel as Model;
 use Statamic\Entries\Entry as FileEntry;
 
 class Entry extends FileEntry

@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Blueprints;
+namespace Realtydev\StatamicDatabase\Blueprints;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;

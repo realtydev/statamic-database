@@ -1,9 +1,9 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Blueprints;
+namespace Realtydev\StatamicDatabase\Blueprints;
 
-use Daynnnnn\StatamicDatabase\Blueprints\Traits\ExistsAsModel;
-use Daynnnnn\StatamicDatabase\Exceptions\DefaultBlueprintNotFoundException;
+use Realtydev\StatamicDatabase\Blueprints\Traits\ExistsAsModel;
+use Realtydev\StatamicDatabase\Exceptions\DefaultBlueprintNotFoundException;
 use Statamic\Facades\Blink;
 use Statamic\Fields\Blueprint;
 use Statamic\Fields\BlueprintRepository as BaseBlueprintRepository;

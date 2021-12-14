@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Assets;
+namespace Realtydev\StatamicDatabase\Assets;
 
 use Illuminate\Support\Facades\Cache;
 use Statamic\Assets\Asset as FileAsset;

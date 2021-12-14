@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Assets;
+namespace Realtydev\StatamicDatabase\Assets;
 
 use Statamic\Assets\AssetRepository as BaseRepository;
 use Statamic\Contracts\Assets\Asset as AssetContract;

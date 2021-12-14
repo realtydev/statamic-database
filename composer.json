@@ -1,9 +1,9 @@
 {
     "name": "realtydev/statamic-database",
-    "description": "Allows you to store all Statamic data in a database.",
+    "description": "Allows you to store all Statamic data in a database..",
     "autoload": {
         "psr-4": {
-            "Daynnnnn\\StatamicDatabase\\": "src"
+            "Realtydev\\StatamicDatabase\\": "src"
         }
     },
     "extra": {
@@ -13,7 +13,7 @@
         },
         "laravel": {
             "providers": [
-                "Daynnnnn\\StatamicDatabase\\StatamicDatabaseServiceProvider"
+                "Realtydev\\StatamicDatabase\\StatamicDatabaseServiceProvider"
             ]
         }
     },

@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Entries;
+namespace Realtydev\StatamicDatabase\Entries;
 
 use Statamic\Contracts\Entries\Entry as EntryContract;
 use Statamic\Contracts\Entries\QueryBuilder;

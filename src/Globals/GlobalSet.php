@@ -1,8 +1,8 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Globals;
+namespace Realtydev\StatamicDatabase\Globals;
 
-use Daynnnnn\StatamicDatabase\Globals\GlobalModel as Model;
+use Realtydev\StatamicDatabase\Globals\GlobalModel as Model;
 use Statamic\Facades\Site;
 use Statamic\Globals\GlobalSet as FileGlobalSet;
 

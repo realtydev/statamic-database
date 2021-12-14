@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Roles;
+namespace Realtydev\StatamicDatabase\Roles;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

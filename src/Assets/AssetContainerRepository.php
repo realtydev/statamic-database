@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Assets;
+namespace Realtydev\StatamicDatabase\Assets;
 
 use Illuminate\Support\Collection;
 use Statamic\Stache\Repositories\AssetContainerRepository as StacheRepository;

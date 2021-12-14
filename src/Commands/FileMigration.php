@@ -1,8 +1,8 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Commands;
+namespace Realtydev\StatamicDatabase\Commands;
 
-use Daynnnnn\StatamicDatabase;
+use Realtydev\StatamicDatabase;
 use Illuminate\Console\Command;
 use Statamic\Contracts;
 use Statamic\Facades\YAML;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Fieldsets;
+namespace Realtydev\StatamicDatabase\Fieldsets;
 
-use Daynnnnn\StatamicDatabase\Fieldsets\Traits\ExistsAsModel;
+use Realtydev\StatamicDatabase\Fieldsets\Traits\ExistsAsModel;
 use Illuminate\Support\Collection;
 use Statamic\Facades\Blink;
 use Statamic\Fields\Fieldset;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Fieldsets;
+namespace Realtydev\StatamicDatabase\Fieldsets;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;

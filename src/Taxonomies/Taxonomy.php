@@ -1,8 +1,8 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Taxonomies;
+namespace Realtydev\StatamicDatabase\Taxonomies;
 
-use Daynnnnn\StatamicDatabase\Taxonomies\TaxonomyModel as Model;
+use Realtydev\StatamicDatabase\Taxonomies\TaxonomyModel as Model;
 use Statamic\Facades\Site;
 use Statamic\Taxonomies\Taxonomy as FileTaxonomy;
 use Statamic\Taxonomies\TermCollection;

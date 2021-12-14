@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Entries;
+namespace Realtydev\StatamicDatabase\Entries;
 
 use Statamic\Facades\Site;
 use Statamic\Entries\Collection as FileCollection;

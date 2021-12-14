@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Trees;
+namespace Realtydev\StatamicDatabase\Trees;
 
 use Illuminate\Database\Eloquent\Model;
 use Statamic\Support\Arr;

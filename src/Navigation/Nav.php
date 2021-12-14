@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Navigation;
+namespace Realtydev\StatamicDatabase\Navigation;
 
 use Statamic\Facades\Nav as NavFacade;
 use Statamic\Structures\Nav as FileNav;

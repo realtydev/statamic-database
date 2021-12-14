@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Exceptions;
+namespace Realtydev\StatamicDatabase\Exceptions;
 
 use \Exception;
 

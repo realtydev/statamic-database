@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Assets;
+namespace Realtydev\StatamicDatabase\Assets;
 
 use Illuminate\Database\Eloquent\Model;
 

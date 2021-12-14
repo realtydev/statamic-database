@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Taxonomies;
+namespace Realtydev\StatamicDatabase\Taxonomies;
 
 use Statamic\Facades;
 use Statamic\Taxonomies\TermCollection;

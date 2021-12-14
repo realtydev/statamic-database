@@ -1,6 +1,6 @@
 <?php
 
-namespace Daynnnnn\StatamicDatabase\Taxonomies;
+namespace Realtydev\StatamicDatabase\Taxonomies;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;

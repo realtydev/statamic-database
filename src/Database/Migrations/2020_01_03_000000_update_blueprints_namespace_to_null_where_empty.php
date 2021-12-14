@@ -1,6 +1,6 @@
 <?php
 
-use Daynnnnn\StatamicDatabase\Blueprints\BlueprintModel;
+use Realtydev\StatamicDatabase\Blueprints\BlueprintModel;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
